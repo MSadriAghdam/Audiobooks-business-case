@@ -1,4 +1,4 @@
-# Audiobooks-business-case
+# Audiobooks-business-case_Neural Networks ML
 Neural network machine learning model on a customers dataset. 
 A csv file containing information from an Audiobook App is given. Logically, it relates to the audio versions of books ONLY. Each customer in the database has made a purchase at least once, that's why he/she is in the database. We want to create a machine learning algorithm based on our available data that can predict if a customer will buy again from the Audiobook company.
 
